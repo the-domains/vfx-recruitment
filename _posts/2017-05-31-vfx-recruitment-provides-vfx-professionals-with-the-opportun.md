@@ -6,19 +6,17 @@ description: >-
   matching open roles with candidates who are at the right skill level and have
   a passion for the position, we provide a vehicle for VFX Talent to actively
   carve out their career path.
-dateModified: '2017-05-31T03:29:08.347Z'
-datePublished: '2017-05-31T03:29:08.818Z'
+dateModified: '2017-05-31T03:24:42.231Z'
+datePublished: '2017-05-31T03:24:42.846Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-sourcePath: >-
-  _posts/2017-05-31-vfx-recruitment-provides-vfx-professionals-with-the-opportun.md
-hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-31T03:24:42.846Z'
-url: vfx-recruitment-provides-vfx-professionals-with-the-opportun/index.html
-_type: Article
+sourcePath: >-
+  _posts/2017-05-31-vfx-recruitment-provides-vfx-professionals-with-the-opportun.md
+_type: Blurb
 
 ---
 VFX Recruitment provides VFX Professionals with the opportunity to work with the companies and projects that most align with their creative ambitions. By matching open roles with candidates who are at the right skill level and have a passion for the position, we provide a vehicle for VFX Talent to actively carve out their career path.
