@@ -5,8 +5,8 @@ description: >-
   assist VFX production studios with the challenges of talent acquisition.
   Leveraging recruitment experience and methodology, VFX Recruitment can help
   you build the teams you need for your productions:
-dateModified: '2017-05-28T20:39:31.399Z'
-datePublished: '2017-05-28T20:39:31.917Z'
+dateModified: '2017-05-28T20:11:06.714Z'
+datePublished: '2017-05-28T20:11:07.290Z'
 title: ''
 author: []
 publisher: {}
@@ -24,14 +24,14 @@ _type: Article
 
 * Quick delivery of juniors, mids and seniors for all VFX roles.
 * No job postings required, all candidates are reached out to directly.
-* Review demo reels of vetted candidates, request interviews and hire candidates immediately or for future projects.
+* Review demo reels of vetted candidates, request interviews and hire candidates immediately.
 * Pay only once candidates have completed 3-month probation period.
 
 **Why work with VFX Recruitment?**
 
-* Job postings on employment websites limit the pool of candidates to those that are actively looking for a position, using employment websites for their job search.
-* Within the VFX industry, jobseekers avoid employment websites and move from each position to the next based on opportunities found through their network.
-* By actively seeking out top talent within the industry, VFX Recruitment casts the widest net possible and filters through interested applicants for each position.
+* Job postings on employment websites limit the pool of candidates for any particular role to those that are actively looking for a position, who use employment websites as part of their job search. 
+* Within the VFX industry, jobseekers often avoid employment websites and move from each position to the next based on opportunities that they find through their network. 
+* By actively seeking out top talent within the industry, VFX Recruitment casts the widest net possible and filters through the interested applicants for each position, based on specifications provided by the client. 
 * VFX Recruitment helps companies take control of the process and ensure that the right candidates are introduced to companies at the right time.
 
 To find out more, please contact us at nicholas.marlin@vfxrecruitmentservices.com
