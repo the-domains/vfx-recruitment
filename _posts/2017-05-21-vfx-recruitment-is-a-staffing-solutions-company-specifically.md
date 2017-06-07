@@ -5,8 +5,8 @@ description: >-
   assist VFX production studios with the challenges of talent acquisition.
   Leveraging recruitment experience and methodology, VFX Recruitment can help
   you build the teams you need for your productions:
-dateModified: '2017-05-28T20:18:54.352Z'
-datePublished: '2017-05-28T20:18:55.221Z'
+dateModified: '2017-05-28T20:39:31.399Z'
+datePublished: '2017-05-28T20:39:31.917Z'
 title: ''
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ _type: Article
 
 * Quick delivery of juniors, mids and seniors for all VFX roles.
 * No job postings required, all candidates are reached out to directly.
-* Review demo reels of vetted candidates, request interviews and hire candidates immediately.
+* Review demo reels of vetted candidates, request interviews and hire candidates immediately or for future projects.
 * Pay only once candidates have completed 3-month probation period.
 
 **Why work with VFX Recruitment?**
