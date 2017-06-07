@@ -1,0 +1,63 @@
+layout_spectrum: 0.7728541843582055
+typography_spectrum: 0.011113314398260105
+color:
+  brandStrength: 0.5168721035910346
+  lightness: 0.339552730007632
+  saturation: 0.675097278783393
+  rhythmicContrast: 0.3194462488616568
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+content_rating:
+  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e6a2a04-0587-44b8-8c18-a78e7f07e07e.png
+name: VFX Recruitment
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: VFX Employers
+    id: b2974658-822b-44fb-8e8e-f3bb7e7e8685
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3294d53d-9cc4-4451-a0c4-43c38a6f24de.jpg
+title: VFX Recruitment
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b235caf7-41a5-4051-8733-e3e25b3a6fb5.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b235caf7-41a5-4051-8733-e3e25b3a6fb5.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Connecting VFX Studios with VFX Talent
+purpose:
+  - type: contact
+    url: 'mailto:nicholas.marlin@vfxrecruitmentsevices.com'
+    label: Contact us
+github: true
