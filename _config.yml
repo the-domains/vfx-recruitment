@@ -1,18 +1,19 @@
-layout_spectrum: 0.1543658687673177
-typography_spectrum: 0.019782002650957444
-color:
-  brandStrength: 0.2947053978824527
-  lightness: 0.5784431802641858
-  saturation: 0.2871827863587417
-  rhythmicContrast: 0.9049421889453868
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+typography_spectrum: 0.5556883850651286
 content_rating:
   adult: false
+color:
+  brandStrength: 0.7133618274725751
+  lightness: 0.06022337364383263
+  saturation: 0.6482988165282082
+  rhythmicContrast: 0.28951528576396335
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+github: true
+layout_spectrum: 0.142024153904473
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e6a2a04-0587-44b8-8c18-a78e7f07e07e.png
 name: VFX Recruitment
@@ -24,6 +25,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: VFX Professionals
+    id: ac412689-6f19-4ef9-89ba-4714b1813431
+    type: content
   - name: VFX Employers
     id: b2974658-822b-44fb-8e8e-f3bb7e7e8685
     type: content
@@ -60,4 +64,3 @@ purpose:
   - type: contact
     url: 'mailto:nicholas.marlin@vfxrecruitmentsevices.com'
     label: Contact us
-github: true
