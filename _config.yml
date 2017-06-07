@@ -1,18 +1,18 @@
-typography_spectrum: 0.9965799816418439
+layout_spectrum: 0.7741840738238822
+typography_spectrum: 0.019407806030410056
+color:
+  brandStrength: 0.8018023396657762
+  lightness: 0.0880887984120204
+  saturation: 0.7073129500718879
+  rhythmicContrast: 0.19812368828913954
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
 content_rating:
   adult: false
-color:
-  brandStrength: 0.24909297516569495
-  lightness: 0.26721758232451975
-  saturation: 0.8993435932788998
-  rhythmicContrast: 0.13347402354702353
-  brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.5459231273271143
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e6a2a04-0587-44b8-8c18-a78e7f07e07e.png
 name: VFX Recruitment
@@ -24,7 +24,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: About us
+  - name: VFX Employers
     id: b2974658-822b-44fb-8e8e-f3bb7e7e8685
     type: content
 favicon: >-
