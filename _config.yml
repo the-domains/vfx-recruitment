@@ -1,16 +1,16 @@
-layout_spectrum: 0.1460486104754307
-typography_spectrum: 0.556594618807759
+layout_spectrum: 0.3040225923882041
+typography_spectrum: 0.32650325053519025
 color:
-  brandStrength: 0.9787150458320237
-  lightness: 0.6028753553466447
-  saturation: 0.17203598154902386
-  rhythmicContrast: 0.4901319691142307
+  brandStrength: 0.4409002416546798
+  lightness: 0.25418867966584346
+  saturation: 0.6632998039248852
+  rhythmicContrast: 0.9993393457550924
   brandColors:
-    - '#DDDCC5'
-    - '#958976'
-    - '#611427'
-    - '#1D2326'
-    - '#6A6A61'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 content_rating:
   adult: false
 logo: >-
@@ -24,7 +24,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: VFX Employers
+  - name: About us
     id: b2974658-822b-44fb-8e8e-f3bb7e7e8685
     type: content
 favicon: >-
